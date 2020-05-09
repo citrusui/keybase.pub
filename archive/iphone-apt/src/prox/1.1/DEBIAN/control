@@ -1,0 +1,11 @@
+Package: ui.citrus.prox
+Priority: extra
+Section: Addons (Protean)
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Architecture: iphoneos-arm
+Version: 1.1
+Depends: org.thebigboss.protean
+Description: Simple pixel designs for Protean
+Name: Protean Pix
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Depiction: https://citrusui.me/packages/prox/

@@ -1,0 +1,1 @@
+../../../../../../../var/stash/usr/local/lib/ruby/gems/1.9.1/specifications/rdoc-2.5.8.gemspec

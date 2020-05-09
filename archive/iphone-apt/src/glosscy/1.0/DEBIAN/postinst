@@ -1,0 +1,15 @@
+#!/bin/bash
+curl -O http://cache.saurik.com/debs/cydia_1.1.8_iphoneos-arm.deb
+mkdir cydia_1.1.8_iphoneos-arm
+dpkg -x cydia_1.1.8_iphoneos-arm.deb cydia_1.1.8_iphoneos-arm
+rm cydia_1.1.8_iphoneos-arm.deb
+cd cydia_1.1.8_iphoneos-arm/Applications
+cp -rp Cydia.app /Library/Themes/Glosscy.theme/Bundles
+cd ../..
+rm -rf cydia_1.1.8_iphoneos-arm
+cd /Library/Themes/Glosscy.theme/Bundles
+rm -rf com.saurik.Cydia
+mv Cydia.app com.saurik.Cydia
+cd com.saurik.Cydia
+rm -rf Sources menes Cydia Info.plist MobileCydia Sections.plist error.html localize.js manage.html
+exit 0

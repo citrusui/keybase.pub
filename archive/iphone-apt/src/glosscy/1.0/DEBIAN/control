@@ -1,0 +1,10 @@
+Package: ui.citrus.glosscy
+Name: Glosscy
+Depends: curl, cydia, winterboard | com.anemonetheming.anemone
+Version: 1.0
+Description: Legacy UI components for Cydia
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Section: Themes
+Depiction: https://citrusui.me/packages/glosscy/

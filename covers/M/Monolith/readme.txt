@@ -1,0 +1,1 @@
+Requires Akzentica 4F Extra Bold (Italic) font

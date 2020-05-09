@@ -1,0 +1,12 @@
+Origin: citrusui repo
+Label: citrusui
+Suite: stable
+Version: 1.0
+Codename: Spectre
+Architecture: iphoneos-arm
+Components: main
+Description: Centralized software distribution for iOS
+MD5sum:
+ce2751f1382215f92122a03c27eecadd 12437 Packages
+ef15dc86153e8811f8e1a1a4de63c200 2744 Packages.gz
+c9110ce6c8775f6a7f6044ad9d3c02b4 2854 Packages.bz2

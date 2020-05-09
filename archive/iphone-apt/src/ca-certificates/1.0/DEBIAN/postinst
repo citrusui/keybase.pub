@@ -1,0 +1,11 @@
+#!/bin/bash
+cd /etc/ssl/certs
+rm -f *.0
+rm -f cert*.pem
+awk '
+split_after == 1 {n++;split_after=0}
+/-----END CERTIFICATE-----/ {split_after=1}
+{print > "cert" n ".pem"}' < cacert.pem
+for file in cert*.pem; do
+ln -fs "$file" "$(openssl x509 -hash -noout -in "$file").0"
+done

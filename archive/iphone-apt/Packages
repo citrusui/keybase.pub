@@ -1,0 +1,402 @@
+Package: ca-certificates
+Name: ca-certificates
+Depends: gawk, openssl
+Architecture: iphoneos-arm
+Description: critical certificates
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Section: System
+Tag: role::hacker
+Version: 1.0
+Essential: yes
+Size: 143388
+MD5sum: b382580aebea3e48be8c280a6605eb29
+Filename: ./debs/ca-certificates_1.0_iphoneos-arm.deb
+
+Package: com.ex.substitute
+Architecture: iphoneos-arm
+Name: Substitute
+Depiction: http://jslinux.org
+Author: comex <comexk+da@gmail.com>
+Priority: optional
+Version: 0.0.1
+Description: Substrate substitute for code substitution
+Maintainer: comex <comexk+dm@gmail.com>
+Section: System
+Size: 85590
+MD5sum: f61b2e40c40bb6461f77957e3f761740
+Filename: ./debs/com.ex.substitute-0.0.1.deb
+
+Package: filemon
+Name: filemon
+Version: 1.0
+Description: A simple FSEvents monitor for iOS.
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Jonathan Levin <tools@newosxbook.com>
+Section: Utilities
+Tags: purpose::console, role::hacker
+Depiction: https://citrusui.me/packages/filemon/
+Size: 3224
+MD5sum: f0dd9260b22780ac6da8661b67cf8264
+Filename: ./debs/filemon_1.0_iphoneos-arm.deb
+
+Package: filemon
+Name: filemon
+Version: 2.0
+Description: A simple FSEvents monitor for iOS.
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Jonathan Levin <tools@newosxbook.com>
+Section: Utilities
+Tags: purpose::console, role::hacker
+Depiction: https://citrusui.me/packages/filemon/
+Size: 10364
+MD5sum: fc51077cce5d21d10b755ab8bf1b21f7
+Filename: ./debs/filemon_2.0_iphoneos-arm.deb
+
+Package: git
+Name: Git
+Version: 2.8.2
+Description: fast content-addressable filesystem
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Section: Data Storage
+Tags: purpose::console, role::developer
+Homepage: https://git-scm.com/
+Size: 12769954
+MD5sum: 418485f5083b9288b7e8297c1052729c
+Filename: ./debs/git_2.8.2_iphoneos-arm.deb
+
+Package: hfs-resize
+Name: hfs_resize
+Version: 1.0
+Description: Resize HFS on iOS
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Daniel (danzatt) <danzatt@users.noreply.github.com>
+Section: Utilities
+Tags: purpose::console, role::developer
+Depiction: https://citrusui.me/packages/hfs-resize/
+Size: 2486
+MD5sum: e8225d7bc445763f4d1494bf2340200a
+Filename: ./debs/hfs-resize_1.0_iphoneos-arm.deb
+
+Package: jtool
+Name: jtool
+Version: 0.9899999
+Description: Taking the O out of otool(1)
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Jonathan Levin <tools@newosxbook.com>
+Section: Utilities
+Tags: purpose::console, role::hacker
+Depiction: https://citrusui.me/packages/jtool/
+Size: 415738
+MD5sum: 63e0d9ece40c8255b5de5bb3e0b21cb9
+Filename: ./debs/jtool_0.9899999_iphoneos-arm.deb
+
+Package: jtool
+Name: jtool
+Version: 1.0-e1
+Description: Taking the O out of otool(1)
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Jonathan Levin <tools@newosxbook.com>
+Section: Utilities
+Tags: purpose::console, role::hacker
+Depiction: https://citrusui.me/packages/jtool/
+Size: 569602
+MD5sum: f6f8b592df7417d675b2dbe7583a6d33
+Filename: ./debs/jtool_1.0-e1_iphoneos-arm.deb
+
+Package: lndir
+Name: lndir
+Version: 1.0
+Description: Create shadow link tree
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Section: Utilities
+Tags: purpose::console, role::developer
+Size: 9346
+MD5sum: d3c02042b6a240e466eec24c960d8a5a
+Filename: ./debs/lndir_1.0_iphoneos-arm.deb
+
+Package: procexp
+Name: procexp
+Version: 1.0.0-e2
+Description: Going over the top(1)
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Jonathan Levin <tools@newosxbook.com>
+Section: Administration
+Tags: purpose::console, role::hacker
+Depiction: https://citrusui.me/packages/procexp/
+Size: 734844
+MD5sum: fb1bb00e1dd8078093e7d4c8c2d4d600
+Filename: ./debs/procexp_1.0.0-e2_iphoneos-arm.deb
+
+Package: python
+Priority: optional
+Section: Scripting
+Installed-Size: 87344
+Maintainer: Linus Yang <laokongzi@gmail.com>
+Sponsor: Linus Yang <http://linusyang.com/>
+Architecture: iphoneos-arm
+Version: 2.7.6-3
+Depends: berkeleydb, bzip2, libffi, ncurses, openssl, readline, sqlite3
+Description: architectural programming language
+Name: Python
+Homepage: http://www.python.org/
+Tag: purpose::console
+Size: 10234620
+MD5sum: a4c724074a4d9443eb43ca023fd9023f
+Filename: ./debs/python_2.7.6-3_iphoneos-arm.deb
+
+Package: ruby
+Name: Ruby
+Version: 1.9.2-p180-1
+Description: Ruby 1.9.2 + RubyGems 1.3.7
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Section: Scripting
+Tags: purpose::console, role::developer
+Depiction: https://citrusui.me/packages/ruby/
+Homepage: https://www.ruby-lang.org/
+Size: 8600220
+MD5sum: 5a766570bfeb07490669c9c0842577c0
+Filename: ./debs/ruby_1.9.2-p180-1_iphoneos-arm.deb
+
+Package: sudo
+Priority: essential
+Section: Administration
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Architecture: iphoneos-arm
+Version: 1.6.9p12-5p
+Description: temporarily assume root priviledges
+Name: Sudo
+Size: 179296
+MD5sum: fdc60d5764571c7fabfc060004983438
+Filename: ./debs/sudo_1.6.9p12-5p_iphoneos-arm.deb
+
+Package: theos
+Name: Theos Installer
+Depends: git, org.coolstar.iostoolchain
+Conflicts: net.howett.theos
+Replaces: net.howett.theos
+Provides: net.howett.theos
+Version: 1.0
+Description: Unified cross-platform Makefile system
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Section: Development
+Tags: purpose::console, role::developer
+Depiction: https://citrusui.me/packages/theos/
+Size: 956
+MD5sum: 44b6b8ce441b0b3faa4fdc40ca974825
+Filename: ./debs/theos_1.0_iphoneos-arm.deb
+
+Package: ui.citrus.compile
+Name: Compile
+Depends: org.coolstar.perl (>=5.22.0)
+Conflicts: ui.citrus.perlmods
+Replaces: ui.citrus.perlmods
+Version: 1.0
+Description: Easily compile Debian packages
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Section: Development
+Tags: purpose::console, role::developer
+Depiction: https://citrusui.me/packages/compile/
+Size: 4674
+MD5sum: 4f9990b1889f9c1a2a6a56c304fe53d6
+Filename: ./debs/ui.citrus.compile_1.0_iphoneos-arm.deb
+
+Package: ui.citrus.compile
+Name: Compile
+Depends: org.coolstar.perl (>=5.22.0)
+Conflicts: ui.citrus.perlmods
+Replaces: ui.citrus.perlmods
+Version: 1.1.1
+Description: Easily compile Debian packages
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Section: Development
+Tags: purpose::console, role::developer
+Depiction: https://citrusui.me/packages/compile/
+Size: 4732
+MD5sum: 6565e564481759b361edaa4854b0f5c2
+Filename: ./debs/ui.citrus.compile_1.1.1_iphoneos-arm.deb
+
+Package: ui.citrus.compile
+Name: Compile
+Depends: org.coolstar.perl (>=5.22.0)
+Version: 1.1.2
+Description: Easily compile Debian packages
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Section: Development
+Tags: purpose::console, role::developer
+Depiction: https://citrusui.me/packages/compile/
+Size: 4842
+MD5sum: 7db56e1820e2f7e36e11d1ff40ed9be0
+Filename: ./debs/ui.citrus.compile_1.1.2_iphoneos-arm.deb
+
+Package: ui.citrus.compile
+Name: Compile
+Depends: org.coolstar.perl (>=5.22.0)
+Version: 1.1.3
+Description: Easily compile Debian packages
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Section: Development
+Tags: purpose::console, role::developer
+Depiction: https://citrusui.me/packages/compile/
+Size: 4832
+MD5sum: 86952c89401267c61c9d10dbbef678c7
+Filename: ./debs/ui.citrus.compile_1.1.3_iphoneos-arm.deb
+
+Package: ui.citrus.compile
+Name: Compile
+Depends: org.coolstar.perl (>=5.22.0)
+Conflicts: ui.citrus.perlmods
+Replaces: ui.citrus.perlmods
+Version: 1.1
+Description: Easily compile Debian packages
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Section: Development
+Tags: purpose::console, role::developer
+Depiction: https://citrusui.me/packages/compile/
+Size: 4710
+MD5sum: 61d6a38a6997979e34b857b5d80c25ed
+Filename: ./debs/ui.citrus.compile_1.1_iphoneos-arm.deb
+
+Package: ui.citrus.dotfiles
+Name: dotfiles
+Depends: git
+Version: 1.0
+Description: sensible hacker defaults for iOS
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Section: Utilities
+Tags: purpose::console, role::hacker
+Depiction: https://citrusui.me/packages/dotfiles/
+Homepage: https://github.com/mathiasbynens/dotfiles
+Size: 916
+MD5sum: 7a39a9d040baea2887b343b0d764d707
+Filename: ./debs/ui.citrus.dotfiles_1.0_iphoneos-arm.deb
+
+Package: ui.citrus.glosscy
+Name: Glosscy
+Depends: curl, cydia, winterboard | com.anemonetheming.anemone
+Version: 1.0
+Description: Legacy UI components for Cydia
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Section: Themes
+Depiction: https://citrusui.me/packages/glosscy/
+Size: 2418
+MD5sum: 7fdd0b2d3ade57ac8df21a3068bf4af7
+Filename: ./debs/ui.citrus.glosscy_1.0_iphoneos-arm.deb
+
+Package: ui.citrus.keybump
+Priority: extra
+Section: Themes (Sounds)
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: winterboard | com.anemonetheming.anemone
+Description: Android 5.0+ keyboard tock sound
+Name: Key Bump
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Depiction: https://citrusui.me/packages/keybump/
+Size: 5110
+MD5sum: ca8fb6ff563866c3bec6a284291681c4
+Filename: ./debs/ui.citrus.keybump_1.0_iphoneos-arm.deb
+
+Package: ui.citrus.newsound
+Priority: extra
+Section: System
+Maintainer: Avery Magnotti <averymagnoti@outlook.com>
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: com.chpwn.mobilevolumesound
+Description: Adds the OS X 10.10+ volume click
+Name: NewSound
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Depiction: https://citrusui.me/packages/newsound/
+Size: 3522
+MD5sum: 850a63c222867367cfbae32fd128a25e
+Filename: ./debs/ui.citrus.newsound_1.0_iphoneos-arm.deb
+
+Package: ui.citrus.prox
+Priority: extra
+Section: Addons (Protean)
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Architecture: iphoneos-arm
+Version: 1.1
+Depends: org.thebigboss.protean
+Description: Simple pixel designs for Protean
+Name: Protean Pix
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Depiction: https://citrusui.me/packages/prox/
+Size: 4228
+MD5sum: 9665da5eb598d6ffc251b2d945d1f935
+Filename: ./debs/ui.citrus.prox_1.1_iphoneos-arm.deb
+
+Package: ui.citrus.raven
+Priority: extra
+Section: Themes (SpringBoard)
+Maintainer: Avery Magnotti <averymagnoti@outlook.com>
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: winterboard | com.anemonetheming.anemone, firmware (<=7.0)
+Description: Stylish icon dock for classic iOS
+Name: Raven Dock
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Depiction: https://citrusui.me/packages/raven/
+Size: 123160
+MD5sum: 97eacf6c9fd2a96c4c15ea44ad00074e
+Filename: ./debs/ui.citrus.raven_1.0_iphoneos-arm.deb
+
+Package: ui.citrus.rickroll
+Name: Rickroll
+Depends: python
+Version: 1.0
+Description: He'll never give you up
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Section: Utilities
+Tags: purpose::console
+Depiction: https://citrusui.me/packages/rickroll/
+Size: 2232
+MD5sum: 585e83a0288a5f6345802cc122d11d0c
+Filename: ./debs/ui.citrus.rickroll_1.0_iphoneos-arm.deb
+
+Package: ui.citrus.zpix
+Priority: extra
+Section: Addons (Zeppelin)
+Maintainer: Avery Magnotti <averymagnoti@outlook.com>
+Architecture: iphoneos-arm
+Version: 1.1
+Depends: com.alexzielenski.zeppelin, firmware (>=7.0)
+Description: Simple pixel designs for Zeppelin
+Name: Zeppelin Pix
+Author: Avery Magnotti <averymagnoti@outlook.com>
+Depiction: https://citrusui.me/packages/zpix/
+Size: 7692
+MD5sum: 18691aee1e8807f5f03ce709b086e1cf
+Filename: ./debs/ui.citrus.zpix_1.1_iphoneos-arm.deb

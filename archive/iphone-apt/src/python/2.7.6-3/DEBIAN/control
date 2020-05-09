@@ -1,0 +1,13 @@
+Package: python
+Priority: optional
+Section: Scripting
+Installed-Size: 87344
+Maintainer: Linus Yang <laokongzi@gmail.com>
+Sponsor: Linus Yang <http://linusyang.com/>
+Architecture: iphoneos-arm
+Version: 2.7.6-3
+Depends: berkeleydb, bzip2, libffi, ncurses, openssl, readline, sqlite3
+Description: architectural programming language
+Name: Python
+Homepage: http://www.python.org/
+Tag: purpose::console

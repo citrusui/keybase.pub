@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /etc/ssl/certs
+rm -f *.0
+rm -f cert*.pem

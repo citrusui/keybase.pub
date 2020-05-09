@@ -1,0 +1,10 @@
+Package: procexp
+Name: procexp
+Version: 1.0.0-e2
+Description: Going over the top(1)
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Jonathan Levin <tools@newosxbook.com>
+Section: Administration
+Tags: purpose::console, role::hacker
+Depiction: https://citrusui.me/packages/procexp/

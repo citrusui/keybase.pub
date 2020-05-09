@@ -1,0 +1,22 @@
+=head2 Sun May  1 16:08:47 2016: C<Module> L<Git|Git>
+
+=over 4
+
+=item *
+
+C<installed into: /usr/lib/perl5/site_perl/5.22.0>
+
+=item *
+
+C<LINKTYPE: static>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

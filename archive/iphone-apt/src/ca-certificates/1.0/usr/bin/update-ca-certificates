@@ -1,0 +1,17 @@
+#!/bin/bash
+if [[ $EUID -ne 0 ]]; then
+  echo "Must be run as sudo." 2>&1
+  exit 1
+else
+  cd /etc/ssl/certs
+curl -O https://curl.haxx.se/ca/cacert.pem
+rm -f *.0
+rm -f cert*.pem
+awk '
+split_after == 1 {n++;split_after=0}
+/-----END CERTIFICATE-----/ {split_after=1}
+{print > "cert" n ".pem"}' < cacert.pem
+for file in cert*.pem; do
+ln -fs "$file" "$(openssl x509 -hash -noout -in "$file").0"
+done
+fi

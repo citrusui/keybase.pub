@@ -1,0 +1,82 @@
+[topic]VWF Cutscene test[/topic]
+This is merely a test to make sure I am capable of using the VWF Cutscene tool effectively.[wait][br]
+
+Option A[br]
+Option B[br]
+Option C
+
+[branch2=optiona,optionb,optionc]
+[label=optiona][erase]
+If you chose A, stuff.[wait][jump=lastbutnotleast]
+
+[label=optionb][erase]
+If you chose A, stuff.[wait][jump=lastbutnotleast]
+
+[label=optionc][erase]
+If you chose A, stuff.[wait][jump=lastbutnotleast]
+
+[label=lastbutnotleast][erase]
+This text,[wait=8] with many commas,[wait=16] will test two different wait times,[wait=8] each alternating between 16,[wait=16] and 8,[wait=8] effectively testing the two times.[wait] Of course,[wait=8] I prefer to use 8 for commas and 16 for periods.[wait=16] OK, I'm done. [wait=16] Also, YES I did copy this from a youtube video. Farewell, peoplez![wait][erase]
+
+[end=exit]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<><><><><><><><><><><><><><><><>URL!<><><><><><><><><><><><><><><><><><>
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>http://www.google.com/products/catalog?q=Pokemon+platinum+BUY&oe=utf-8&rls=org.mozilla:en-US:official&client=firefox-a&um=1&ie=UTF-8&tbm=shop&cid=12738407227442643565&sa=X&ei=q0XVT6ipNoe26gH38vCnAw&ved=0CIYBEPMCMAE[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]!
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>

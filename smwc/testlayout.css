@@ -1,0 +1,177 @@
+/*BG IMAGE*/
+.minicoinstestlay
+{
+	display: table;
+
+	width: 100%;
+	height: 250px;
+
+	background-image: url('http://www.frankoleary.org/wp-content/uploads/2010/12/pacifica_transparent.png');
+}
+
+
+.minicoinstestlay > .lessonlearned
+{
+	display: table-cell;
+	vertical-align: middle;
+
+	background-image: url('NOPE!');
+	background-repeat: no-repeat;
+	background-position: right;
+
+	padding: 50px;
+	padding-right: 293px;
+}
+
+
+.minicoinstestlay > .lessonlearned > .main
+{
+	padding: 12px;
+	
+	background-color: transparent;
+	background-color: rgba(12, 12, 12, 12);
+
+	background-image: url('NOPE!');
+	
+	
+	border: 1px dashes #3A0;
+	border-radius: 45px;
+	-moz-border-radius: 45px;
+	-webkit-border-radius: 45px;
+        -presto-border-radius: 45px;
+	
+	color: #FFA;
+
+	font-family: Candara, Sans-Serif;
+	font-size: 10pt;
+	
+	text-align: justify;
+
+	line-height: 135%;
+}
+
+
+.minicoinstestlay a
+{
+	text-decoration: none;
+}
+
+.minicoinstestlay a:link
+{
+	color: #75B;
+	font-weight: bold;
+}
+
+.minicoinstestlay a:visited
+{
+	color: #75A;
+	font-weight: bold;
+}
+
+.minicoinstestlay a:hover
+{
+	color: #D9A;
+	text-decoration: underline;
+}
+
+.minicoinstestlay .quote, .minicoinstestlay .code
+{
+	margin: 24px 24px 24px 24px;
+}
+
+.minicoinstestlay .quote>.boxhead
+{
+	font-size: 7pt;
+	color: #3A0;
+}
+
+/*CODE*/
+
+.minicoinstestlay .code
+{
+	font-size: 10pt;
+}
+
+.minicoinstestlay .code, .minicoinstestlay .code > .boxhead, .minicoinstestlay .code > .box, .minicoinstestlay code
+{
+	text-align: left;
+	font-family: 'Candara';
+
+	color: #7BB;
+}
+
+.minicoinstestlay code
+{
+	display: inline-block;
+	line-height: 120%;
+
+	margin: -1px 1px 0px 1px;
+
+	background-color: transparent;
+
+	padding: 0px 3px 0px 3px;
+
+	border: 1px solid #9AE;
+	border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+        -presto-border-radius: 2px;
+}
+
+.minicoinstestlay code > code
+{
+	display: inline;
+	margin: 0px;
+
+	background-color: transparent;
+
+	padding: 0px;
+
+	border: none;
+}
+
+.minicoinstestlay .code > .boxhead
+{
+	font-size: 8pt;
+}
+
+.minicoinstestlay .code .plain
+{
+	color: #3A0;
+}
+
+.minicoinstestlay .code > .box, .minicoinstestlay .quote > .box
+{
+	padding: 6px;
+	
+	border: 1px solid #3A0;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+        -presto-border-radius: 5px;
+}
+
+.minicoinstestlay .code > .box
+{
+	border-color: #44A;
+}
+
+/*QUOTERIFFIC*/
+
+.minicoinstestlay .quote > .box
+{
+	border-color: #A25;
+}
+
+
+
+
+div.minicointestlay333 {
+	background: url('http://i566.photobucket.com/albums/ss108/sophaloaf_2009/finale.png') top left repeat-x;
+	padding: 12px;
+}
+div.minicointestlay666 {
+	background: url('http://dl.dropbox.com/u/57363628/Other%20Layouts/Mini_Coin%27s%20Layout/backgroundbottom.png') #80A8F8 bottom repeat-x;
+	color: #000000;
+	padding-bottom: 3px;
+}

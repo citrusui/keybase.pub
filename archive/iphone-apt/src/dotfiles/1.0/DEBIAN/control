@@ -1,0 +1,12 @@
+Package: ui.citrus.dotfiles
+Name: dotfiles
+Depends: git
+Version: 1.0
+Description: sensible hacker defaults for iOS
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Section: Utilities
+Tags: purpose::console, role::hacker
+Depiction: https://citrusui.me/packages/dotfiles/
+Homepage: https://github.com/mathiasbynens/dotfiles

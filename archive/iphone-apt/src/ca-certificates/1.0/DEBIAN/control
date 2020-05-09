@@ -1,0 +1,11 @@
+Package: ca-certificates
+Name: ca-certificates
+Depends: gawk, openssl
+Architecture: iphoneos-arm
+Description: critical certificates
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Section: System
+Tag: role::hacker
+Version: 1.0
+Essential: yes

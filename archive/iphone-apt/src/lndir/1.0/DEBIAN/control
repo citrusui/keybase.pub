@@ -1,0 +1,9 @@
+Package: lndir
+Name: lndir
+Version: 1.0
+Description: Create shadow link tree
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Section: Utilities
+Tags: purpose::console, role::developer

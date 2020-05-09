@@ -1,0 +1,1 @@
+../../../../../../../var/stash/usr/local/lib/ruby/gems/1.9.1/specifications/minitest-1.6.0.gemspec

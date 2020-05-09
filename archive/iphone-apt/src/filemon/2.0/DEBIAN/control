@@ -1,0 +1,10 @@
+Package: filemon
+Name: filemon
+Version: 2.0
+Description: A simple FSEvents monitor for iOS.
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Jonathan Levin <tools@newosxbook.com>
+Section: Utilities
+Tags: purpose::console, role::hacker
+Depiction: https://citrusui.me/packages/filemon/

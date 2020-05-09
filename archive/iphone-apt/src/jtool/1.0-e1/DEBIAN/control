@@ -1,0 +1,10 @@
+Package: jtool
+Name: jtool
+Version: 1.0-e1
+Description: Taking the O out of otool(1)
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Jonathan Levin <tools@newosxbook.com>
+Section: Utilities
+Tags: purpose::console, role::hacker
+Depiction: https://citrusui.me/packages/jtool/

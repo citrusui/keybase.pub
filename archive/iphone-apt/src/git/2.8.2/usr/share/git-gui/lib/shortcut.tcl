@@ -1,0 +1,1 @@
+../../../../var/stash2/usr/share/git-gui/lib/shortcut.tcl

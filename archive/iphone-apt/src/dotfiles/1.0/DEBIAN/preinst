@@ -1,0 +1,10 @@
+#!/bin/bash
+if [ -d "/var/mobile/dotfiles" ]; then
+  cd /var/mobile/dotfiles
+  git pull
+  cp .aliases .bash_profile .bash_prompt .bashrc .curlrc .gvimrc .inputrc .screenrc .vimrc .wgetrc ..
+  exit 0
+fi
+git clone git://github.com/mathiasbynens/dotfiles /var/mobile/dotfiles
+cd /var/mobile/dotfiles
+cp .aliases .bash_profile .bash_prompt .bashrc .curlrc .gvimrc .inputrc .screenrc .vimrc .wgetrc ..

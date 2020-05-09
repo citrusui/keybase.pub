@@ -1,0 +1,8 @@
+Package: sudo
+Priority: essential
+Section: Administration
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Architecture: iphoneos-arm
+Version: 1.6.9p12-5p
+Description: temporarily assume root priviledges
+Name: Sudo

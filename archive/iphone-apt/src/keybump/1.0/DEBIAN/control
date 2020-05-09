@@ -1,0 +1,11 @@
+Package: ui.citrus.keybump
+Priority: extra
+Section: Themes (Sounds)
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: winterboard | com.anemonetheming.anemone
+Description: Android 5.0+ keyboard tock sound
+Name: Key Bump
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Depiction: https://citrusui.me/packages/keybump/

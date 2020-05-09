@@ -1,0 +1,14 @@
+Package: theos
+Name: Theos Installer
+Depends: git, org.coolstar.iostoolchain
+Conflicts: net.howett.theos
+Replaces: net.howett.theos
+Provides: net.howett.theos
+Version: 1.0
+Description: Unified cross-platform Makefile system
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Section: Development
+Tags: purpose::console, role::developer
+Depiction: https://citrusui.me/packages/theos/

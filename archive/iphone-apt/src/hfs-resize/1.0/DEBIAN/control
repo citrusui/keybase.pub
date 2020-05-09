@@ -1,0 +1,10 @@
+Package: hfs-resize
+Name: hfs_resize
+Version: 1.0
+Description: Resize HFS on iOS
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Daniel (danzatt) <danzatt@users.noreply.github.com>
+Section: Utilities
+Tags: purpose::console, role::developer
+Depiction: https://citrusui.me/packages/hfs-resize/

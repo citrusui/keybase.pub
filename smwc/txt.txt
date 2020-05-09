@@ -1,0 +1,4 @@
+FOR ONE INDIVIDUAL WINDOW:
+While the current window is open, press Press Alt+PrntScreen. Then go to Paint and click paste. Your picture/window should be displayed.
+FOR THE ENTIRE COMPUTER SCREEN:
+While the current window is open, press Ctrl + PrintScreen. Then go Paint and click paste. Your entire computer screen should be displayed.

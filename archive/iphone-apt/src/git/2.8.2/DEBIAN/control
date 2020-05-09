@@ -1,0 +1,10 @@
+Package: git
+Name: Git
+Version: 2.8.2
+Description: fast content-addressable filesystem
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Section: Data Storage
+Tags: purpose::console, role::developer
+Homepage: https://git-scm.com/

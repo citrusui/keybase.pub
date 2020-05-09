@@ -1,0 +1,1 @@
+../../../../../var/stash2/usr/share/locale/fr/LC_MESSAGES/git.mo

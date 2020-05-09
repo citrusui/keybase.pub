@@ -1,0 +1,13 @@
+Package: ui.citrus.compile
+Name: Compile
+Depends: org.coolstar.perl (>=5.22.0)
+Conflicts: ui.citrus.perlmods
+Replaces: ui.citrus.perlmods
+Version: 1.1
+Description: Easily compile Debian packages
+Architecture: iphoneos-arm
+Maintainer: Avery Magnotti <averymagnotti@outlook.com>
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Section: Development
+Tags: purpose::console, role::developer
+Depiction: https://citrusui.me/packages/compile/

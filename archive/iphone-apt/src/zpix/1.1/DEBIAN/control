@@ -1,0 +1,11 @@
+Package: ui.citrus.zpix
+Priority: extra
+Section: Addons (Zeppelin)
+Maintainer: Avery Magnotti <averymagnoti@outlook.com>
+Architecture: iphoneos-arm
+Version: 1.1
+Depends: com.alexzielenski.zeppelin, firmware (>=7.0)
+Description: Simple pixel designs for Zeppelin
+Name: Zeppelin Pix
+Author: Avery Magnotti <averymagnoti@outlook.com>
+Depiction: https://citrusui.me/packages/zpix/

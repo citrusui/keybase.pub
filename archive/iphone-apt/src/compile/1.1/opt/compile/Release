@@ -1,0 +1,8 @@
+Origin: Example Repository
+Label: Example
+Suite: stable
+Version: 1.0
+Codename: uicompile
+Architecture: iphoneos-arm
+Components: main
+Description: My Example Repository

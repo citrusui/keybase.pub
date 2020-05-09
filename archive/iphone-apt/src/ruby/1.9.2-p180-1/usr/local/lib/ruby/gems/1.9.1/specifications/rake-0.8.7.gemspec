@@ -1,0 +1,1 @@
+../../../../../../../var/stash/usr/local/lib/ruby/gems/1.9.1/specifications/rake-0.8.7.gemspec

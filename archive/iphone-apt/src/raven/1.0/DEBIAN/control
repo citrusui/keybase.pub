@@ -1,0 +1,11 @@
+Package: ui.citrus.raven
+Priority: extra
+Section: Themes (SpringBoard)
+Maintainer: Avery Magnotti <averymagnoti@outlook.com>
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: winterboard | com.anemonetheming.anemone, firmware (<=7.0)
+Description: Stylish icon dock for classic iOS
+Name: Raven Dock
+Author: Avery Magnotti <averymagnotti@outlook.com>
+Depiction: https://citrusui.me/packages/raven/

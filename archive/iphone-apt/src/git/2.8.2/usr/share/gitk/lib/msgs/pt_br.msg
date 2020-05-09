@@ -1,0 +1,1 @@
+../../../../../var/stash2/usr/share/gitk/lib/msgs/pt_br.msg
